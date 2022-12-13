@@ -1,0 +1,166 @@
+.main-container {
+
+					/* border: 2px solid cyan; */
+	position: absolute;
+	left: 23%;
+	width: 700px;
+	height: 820PX;
+	padding: 20px;
+	margin-bottom: 20px;
+	box-shadow: 0px 0px 25px black;
+	background-color: #171717;
+	border-radius: 10px;
+	
+}
+
+img {
+	border: 2px solid black;
+	position: absolute;
+	right: 0;
+	top: 0;
+	width: 110px;
+	margin-right: 17px;
+	margin-top: 50px;
+	height: 130px;
+	border-radius: 10px;
+}
+
+#info-div {
+	border: 2px solid black;
+	width: 680px;
+	height: 230px;
+	/*				margin: 2px;*/
+	position: absolute;
+	padding: 10px;
+	/*				margin: 20px;*/
+	background-color: #242726;
+	border-radius: 10px;
+	color: white;
+	/* box-shadow: 0px 0px 10px white; */
+
+
+}
+
+#form-container {
+	position: absolute;
+	border: 2px solid black;
+	padding: 20px;
+	bottom: 10;
+	/*				margin: 20px;*/
+	width: 660px;
+	margin-bottom: 1S0px;
+	color: white;
+	border-radius: 10px;
+	background-color: #242726;
+}
+
+.label-class {
+	margin-right: 19px; 
+	margin: 20px;
+	margin-bottom: 10px;
+
+}
+
+input {
+	position: relative;
+	left: 5%;
+	margin: 3px;
+	/* background-color: lightcyan; */
+	border-radius: 5px;
+	width: max-content;
+	border: 1px solid black;
+	
+}
+
+textarea{
+	border-radius: 10px;
+	/* background-color: lightcyan; */
+	border: 1px solid black;
+}
+
+
+
+#save {
+	background-color: green;
+	margin-left: 240px;
+	margin-top: 10px;
+	border-radius: 10px;
+	padding: 5px;
+	width: 100px;
+	height: 40px;
+	color: wheat;
+	font-size: medium;
+	box-shadow: 0px 0px 10px black;
+
+}
+#info p{
+	color: white;
+}
+
+#info h2{
+	color: rgb(12, 110, 143);
+}
+
+.font-edit{
+	color: rgb(84, 197, 235);
+}
+#cancel {
+	background-color: red;
+	border-radius: 10px;
+	padding: 5px;
+	width: 100px;
+	color: wheat;
+	height: 40px;
+	font-size: medium;
+	box-shadow: 0px 0px 10px black;
+}
+
+/*#info{
+				padding-left: 20px;
+			}*/
+
+#flex {
+	display: flex;
+	width: 100%;
+
+}
+
+#flex div {
+	flex: content;
+}
+
+#text {
+	max-width: fit-content;
+	max-height: fit-content;
+	margin-top: 3px;
+	
+}
+
+.label-class1{
+	position: relative;
+	left: 5%;
+	margin: 2px;
+	
+}
+
+#textbox1{
+	vertical-align: top;
+	margin-right: 15px; 
+	margin: 18px;
+	margin-bottom: 10px;
+}
+
+.label-class2{
+	position: relative;
+	margin-right: 20px; 
+	margin-bottom: 10px;
+	left: 3%;
+}
+
+.label-class3{
+	position: relative;
+	margin-right: 33px; 
+	margin-bottom: 10px;
+	left: 3%;
+	/* height: 25px; */
+}
